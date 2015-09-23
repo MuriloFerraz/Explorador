@@ -14,7 +14,7 @@
       um robô explorador auto-evasivo
 
     HARDWARE:
-    1 Garagino ou Arduino 
+    1 Arduino ou compatível
     1 HC-SR04 - Sensor Ultrasonico
     1 SG90 - Micro servo 9G
     1 TB6612FNG - Dual Motor Carrier / L293D
