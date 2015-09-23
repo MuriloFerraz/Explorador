@@ -1,7 +1,7 @@
 # Explorador
-- Desenvolvimento do robô explorador - 
+- Desenvolvimento do robô explorador (Obstacle Avoiding)
 
-- Este repositório contém os códigos para arduino, para controle de um robo explorador. - 
+- Este repositório contém os códigos para arduino, para controle de um robo explorador. 
 
 - Este robô é composto de:  
 
