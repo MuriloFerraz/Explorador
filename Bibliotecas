@@ -1,7 +1,7 @@
 Neste arquivo está listado todas as bibliotécas necessárias para o correto funcionamento do robô explorador
 
 bibliotecas mais recentes podem estar disponíveis, porém, as bibliotécas que estiverem aqui, certamente
-foram testadas e são compartíveis com Arduino (Atmega 328 based boards).
+foram testadas e são compartíveis com Arduino.
 
 ------------------------------------
 LIB             | Origem            
